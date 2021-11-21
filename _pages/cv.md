@@ -7,8 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
+You can see online/download the pdfs from here
+======
+
+* [Hernandez_Salas-Emilio_Jesus-CV spanish](https://emichester.github.io/files/Hernandez_Salas-Emilio_Jesus-CV_ENG.pdf)
+* [Hernandez_Salas-Emilio_Jesus-CV english](https://emichester.github.io/files/Hernandez_Salas-Emilio_Jesus-CV_SPA.pdf)
+
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
