@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an engineer with a passion for the world of robotics, automation and the new technologies that are emerging, with which we are able to go further and further. I enjoy teamwork and I always try hard to get the best results at work.
+I am an engineer with a passion for the world of robotics, automation, computer vision, AI and all the new technologies that are emerging, with which we are able to go further and further. I enjoy teamwork and I always try hard to get the best results at work.
 
 Recent results as research intern in Space Robotics Lab at UMA
 ======
