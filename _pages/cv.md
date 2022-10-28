@@ -12,8 +12,8 @@ redirect_from:
 You can see online/download the pdfs from here
 ======
 
-* [Hernandez_Salas-Emilio_Jesus-CV spanish](https://emichester.github.io/files/HernandezSalas_EmilioJesus_SPA.pdf)
-* [Hernandez_Salas-Emilio_Jesus-CV english](https://emichester.github.io/files/HernandezSalas_EmilioJesus_ENG.pdf)
+* [Hernandez_Salas-Emilio_Jesus-CV spanish](https://emichester.github.io/files/Hernandez_Salas-Emilio_Jesus_SPA.pdf)
+* [Hernandez_Salas-Emilio_Jesus-CV english](https://emichester.github.io/files/Hernandez_Salas-Emilio_Jesus_ENG.pdf)
 
 <!-- 
 Education
